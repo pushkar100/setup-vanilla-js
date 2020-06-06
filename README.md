@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/pushkar100/setup-vanilla-js.svg?branch=master)](https://travis-ci.com/pushkar100/setup-vanilla-js)
+
 # Setup 
 
 Code repository containing all the tools needed to start off with a frontend project.
