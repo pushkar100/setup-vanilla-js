@@ -23,6 +23,3 @@ deploy:
   local_dir: docs
   on:
     branch: master
-
-    9192cea752b85c6eea83298f5aa8c832b63f3b24
-
