@@ -1,4 +1,4 @@
-export const a = 5
+export const b = 5
 
 export default class B {
   state = {}
