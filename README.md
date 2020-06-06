@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/pushkar100/continuous-integration-travis.svg?branch=master)](https://travis-ci.com/pushkar100/continuous-integration-travis)
+[![Build Status](https://travis-ci.com/pushkar100/setup-vanilla-js.svg?branch=master)](https://travis-ci.com/pushkar100/setup-vanilla-js)
 
 # Setup 
 
