@@ -10,3 +10,7 @@ Every folder caters to one type of setup. Inside each of them:
 3. Copy the config files `.eslintrc.json`, `.prettierrc`, etc - the rules inside these can be modified later
 
 Additionally, setup your editor for the dependecies such as linters and code formatters to perform actions on file save
+
+## Changes to be made
+
+Make sure `package.json` details are edited. If you are changing the license or code of conduct, make the appropriate changes in the corresponding file and `package.json` (if required)
