@@ -1,6 +1,28 @@
 language: node_js
 
+branches:
+  only:
+    - master
+
 before_install:
   - npm i -g npm@6.14.4
 
-cache: npm
+cache:
+  - npm
+  directories:
+    - "node_modules"
+
+script:
+  - npm run test
+  - npm run lint
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: docs
+  on:
+    branch: master
+
+    9192cea752b85c6eea83298f5aa8c832b63f3b24
+
